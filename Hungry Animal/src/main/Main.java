@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("SELLL YOUR SOUL");
 		System.out.println("You have gotten the project successfully!");
 		System.out.println("I carson do agree to the terms!");
+		System.out.println("Fire Fire Fire");
 	}
 }
